@@ -6,4 +6,4 @@ INSTALLATION:
 
 Download the script and upload it to your UNIX/Linux system.
 Modify the script and configure the username and password for your MySQL user; optionally, change the folder where the SQL files will be saved.
-Run the script using the command "sh export_db.sh".
+Run the script using the command "sh db_exporter.sh".
